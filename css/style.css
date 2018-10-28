@@ -16,6 +16,9 @@ h1 {
 a {
   color: rgb(238, 55, 51);
 }
+a:link{color:rgb(238, 55, 51)}
+a:visited{color:rgb(238, 55, 51)}
+a:hover{color:rgb(92, 27, 26);text-decoration:none}
 
 .container {
   font-family: 'Slabo 27px', serif;
